@@ -49,8 +49,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: VARSHA AJITH
-### Register Number:212221230118
+### Name: V NAVEENKUMAR
+### Register Number:212221230068
 ```python
 
 from google.colab import auth
